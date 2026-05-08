@@ -118,20 +118,6 @@ http://localhost:3000
 
 ---
 
-## 📁 Project Structure
-
-```text
-vectorui/
-├── components/      # Reusable UI components
-├── pages/           # Next.js application pages
-├── public/          # Static assets (images, icons, etc.)
-├── styles/          # Global and component-level styles
-├── utils/           # Helper functions or constants
-├── package.json
-└── README.md
-```
-
----
 
 ## 🧠 How It Works
 
@@ -177,7 +163,7 @@ You can freely use and modify it in your own projects.
 
 ---
 
-> Made with ❤️ using **Next.js**, **React**, **Tailwind CSS**, **Framer Motion**, and **Prism.js**
+> Made with **Next.js**, **React**, **Tailwind CSS**, **Framer Motion**, and **Prism.js**
 ```
 
 ---

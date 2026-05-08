@@ -166,6 +166,3 @@ You can freely use and modify it in your own projects.
 > Made with **Next.js**, **React**, **Tailwind CSS**, **Framer Motion**, and **Prism.js**
 ```
 
----
-
-Would you like me to add **badges (Next.js, Tailwind, License, Contributions Welcome)** at the top so your README looks even more professional on GitHub?
